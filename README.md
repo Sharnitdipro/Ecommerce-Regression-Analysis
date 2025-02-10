@@ -43,16 +43,18 @@ Here’s a correlation heatmap showing relationships between key features:
 We implemented **Simple Linear Regression** and **Multiple Linear Regression** to predict order values.  
 
 The **Linear Regression equation** used:  
-\[
+
+$$
 Y = \beta_0 + \beta_1X_1 + \beta_2X_2 + ... + \beta_nX_n + \epsilon
-\]  
+$$
+
 where:  
 - \( Y \) = Predicted Sales Revenue  
 - \( X_1, X_2, ..., X_n \) = Independent Variables (Price, Discount, etc.)  
 - \( \beta \) = Coefficients  
 - \( \epsilon \) = Error term  
 
----
+
 
 ## 📈 **Results & Insights**  
 👉 **Feature Importance:**  
